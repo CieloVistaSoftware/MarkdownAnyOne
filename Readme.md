@@ -43,7 +43,7 @@ Click on Preview (Ctrl+Shift+V) to view the rendered Markdown file.
 Code Blocks:
 
 ## Code Block:
-
+Show a python code snippet.
 ```python
 def greet():
     print("Hello, World!")

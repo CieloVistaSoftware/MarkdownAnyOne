@@ -1,4 +1,4 @@
-# Learning Markdown (Calvin Duncan)
+# Learning Markdown 
 
 - You are reading a Markdown file.
 - And hopefully you are in Visual Studio Code
